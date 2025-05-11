@@ -14,8 +14,8 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Timilehin-dex/huddle-landing-page-with-single-introductory-section-master)
-- Live Site URL: [Add live site URL here](https://timilehin-dex.github.io/huddle-landing-page-with-single-introductory-section-master/)
+- Solution URL: [Add solution URL here](https://github.com/Timilehin-dex/FAQ_accordion)
+- Live Site URL: [Add live site URL here](https://timilehin-dex.github.io/FAQ_accordion/)
 
 ## My process
 
