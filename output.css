@@ -1365,6 +1365,15 @@ details.collapse summary::-webkit-details-marker {
   position: relative;
 }
 
+.mx-5 {
+  margin-left: 1.25rem;
+  margin-right: 1.25rem;
+}
+
+.block {
+  display: block;
+}
+
 .flex {
   display: flex;
 }
@@ -1373,8 +1382,16 @@ details.collapse summary::-webkit-details-marker {
   display: grid;
 }
 
+.hidden {
+  display: none;
+}
+
 .h-screen {
   height: 100vh;
+}
+
+.w-full {
+  width: 100%;
 }
 
 .max-w-xl {
@@ -1462,4 +1479,22 @@ details.collapse summary::-webkit-details-marker {
 .hover\:text-yellow-500:hover {
   --tw-text-opacity: 1;
   color: rgb(234 179 8 / var(--tw-text-opacity, 1));
+}
+
+@media (min-width: 640px) {
+  .sm\:static {
+    position: static;
+  }
+
+  .sm\:absolute {
+    position: absolute;
+  }
+
+  .sm\:block {
+    display: block;
+  }
+
+  .sm\:hidden {
+    display: none;
+  }
 }

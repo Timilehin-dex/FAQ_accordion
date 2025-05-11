@@ -29,13 +29,18 @@
   <body class="bg-lightPink font-sans">
     <div>
       <img
-        class="absolute"
+        class="sm:absolute static hidden sm:block"
         src="assets/images/background-pattern-desktop.svg"
+        alt=""
+      />
+      <img
+        src="assets/images/background-pattern-mobile.svg"
+        class="w-full absolute sm:static block sm:hidden"
         alt=""
       />
       <div class="h-screen grid place-content-center">
         <div class="max-w-xl relative">
-          <div class="bg-white p-6 rounded-xl">
+          <div class="bg-white p-6 rounded-xl mx-5">
             <div class="flex items-center gap-4 pb-5">
               <img src="assets/images/icon-star.svg" alt="" />
               <h1 class="text-darkPurple text-5xl font-bold">FAQs</h1>
