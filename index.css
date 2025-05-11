@@ -1,0 +1,16 @@
+/* label::after {
+  content: "+";
+  position: absolute;
+  color: white;
+  right: 1em;
+} */
+/* input:checked + label::after {
+  content: "-";
+} */
+/* .accordion-content {
+  max-height: 0em;
+  transition: all 0.4s cubic-bezier(0.865, 0.14, 0.095, 0.87);
+} */
+/* input[name="panel"]:checked ~ .accordion-content {
+  max-height: 50em;
+} */
